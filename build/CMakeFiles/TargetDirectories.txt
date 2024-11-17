@@ -1,0 +1,3 @@
+/home/jhonathan/gunbros/build/CMakeFiles/GunBros_Simplificado.dir
+/home/jhonathan/gunbros/build/CMakeFiles/edit_cache.dir
+/home/jhonathan/gunbros/build/CMakeFiles/rebuild_cache.dir

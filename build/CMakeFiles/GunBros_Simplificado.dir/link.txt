@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/GunBros_Simplificado.dir/src/main.cpp.o -o GunBros_Simplificado  -Wl,-rpath,/usr/local/lib /usr/local/lib/libOgreBites.so.14.3 /usr/local/lib/libOgreOverlay.so.14.3 /usr/lib/x86_64-linux-gnu/libSDL2.so /usr/local/lib/libOgreRTShaderSystem.so.14.3 /usr/local/lib/libOgreMain.so.14.3 -lpthread 
